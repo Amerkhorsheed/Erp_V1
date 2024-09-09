@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E186139F-2702-4DC0-A0D7-EE5A78DEBE45}|Erp_V1\\Erp_V1.csproj|c:\\users\\ahmad\\source\\repos\\erp_v1\\erp_v1\\recommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E186139F-2702-4DC0-A0D7-EE5A78DEBE45}|Erp_V1\\Erp_V1.csproj|solutionrelative:erp_v1\\recommendationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E186139F-2702-4DC0-A0D7-EE5A78DEBE45}|Erp_V1\\Erp_V1.csproj|c:\\users\\ahmad\\source\\repos\\erp_v1\\erp_v1\\alsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E186139F-2702-4DC0-A0D7-EE5A78DEBE45}|Erp_V1\\Erp_V1.csproj|solutionrelative:erp_v1\\alsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E186139F-2702-4DC0-A0D7-EE5A78DEBE45}|Erp_V1\\Erp_V1.csproj|c:\\users\\ahmad\\source\\repos\\erp_v1\\erp_v1\\recommendationengineals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E186139F-2702-4DC0-A0D7-EE5A78DEBE45}|Erp_V1\\Erp_V1.csproj|solutionrelative:erp_v1\\recommendationengineals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E186139F-2702-4DC0-A0D7-EE5A78DEBE45}|Erp_V1\\Erp_V1.csproj|c:\\users\\ahmad\\source\\repos\\erp_v1\\erp_v1\\recommendationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E186139F-2702-4DC0-A0D7-EE5A78DEBE45}|Erp_V1\\Erp_V1.csproj|solutionrelative:erp_v1\\recommendationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecommendationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\Erp_V1\\RecommendationForm.Designer.cs",
+              "RelativeDocumentMoniker": "Erp_V1\\RecommendationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\Erp_V1\\RecommendationForm.Designer.cs",
+              "RelativeToolTip": "Erp_V1\\RecommendationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:44:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecommendationForm.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\Erp_V1\\RecommendationForm.cs",
+              "RelativeDocumentMoniker": "Erp_V1\\RecommendationForm.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\Erp_V1\\RecommendationForm.cs",
+              "RelativeToolTip": "Erp_V1\\RecommendationForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:44:09.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ALSModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\Erp_V1\\ALSModel.cs",
+              "RelativeDocumentMoniker": "Erp_V1\\ALSModel.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\Erp_V1\\ALSModel.cs",
+              "RelativeToolTip": "Erp_V1\\ALSModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:39:17.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecommendationEngineALS.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\Erp_V1\\RecommendationEngineALS.cs",
+              "RelativeDocumentMoniker": "Erp_V1\\RecommendationEngineALS.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\Erp_V1\\Erp_V1\\RecommendationEngineALS.cs",
+              "RelativeToolTip": "Erp_V1\\RecommendationEngineALS.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:29:49.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
